@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="10.999998pt"
+   height="10.999999pt"
+   viewBox="0 0 10.999998 10.999999"
+   version="1.1"
+   id="svg2903"
+   sodipodi:docname="streams_quickstart.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2903"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="10.999998"
+       height="10.999999"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs169" />
+  <path
+     fill-rule="nonzero"
+     fill="#4f4c4c"
+     fill-opacity="1"
+     d="M 11,5.5000012 C 11,8.5351572 8.5390626,11.000001 5.4999996,11.000001 2.4648436,11.000001 -3.2335863e-7,8.5351572 -3.2335863e-7,5.5000012 -3.2335863e-7,2.4609382 2.4648436,1.1781916e-6 5.4999996,1.1781916e-6 8.5390626,1.1781916e-6 11,2.4609382 11,5.5000012"
+     id="path905" />
+  <path
+     fill="none"
+     stroke-width="0.78"
+     stroke-linecap="round"
+     stroke-linejoin="miter"
+     stroke="#ffffff"
+     stroke-opacity="1"
+     stroke-miterlimit="10"
+     d="m 2.5312496,7.441407 1.871094,-3.8867188 4.363281,3.796875"
+     id="path906" />
+</svg>
